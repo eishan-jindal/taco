@@ -1,0 +1,1 @@
+All static resources are to be put into the static directory.
