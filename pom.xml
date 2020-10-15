@@ -12,7 +12,7 @@
     <artifactId>taco</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>taco</name>
-    <description>Examplar application made through following the book: Spring In Action by Craig Walls</description>
+    <description>Exemplar application made through following the book: Spring In Action by Craig Walls</description>
 
     <properties>
         <java.version>1.8</java.version>
