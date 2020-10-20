@@ -1,6 +1,6 @@
 package com.xen.taco;
 
-import com.xen.taco.controllers.HomeController;
+import com.xen.taco.controller.HomeController;
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
